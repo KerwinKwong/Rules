@@ -1,6 +1,9 @@
 // Client
 PROCESS-NAME,ss-local
 
+//Ruijie
+DOMAIN-SUFFIX,wechat.uclass.ruijie.com.cn
+
 // UA
 USER-AGENT,hide*
 USER-AGENT,MicroMessenger*
