@@ -1,4 +1,8 @@
 # China Area Network
+
+# > my site
+IP-CIDR,185.201.226.69
+
 # > Apple
 DOMAIN-SUFFIX,apple.co
 DOMAIN-SUFFIX,apple.com
