@@ -1,4 +1,6 @@
 # (DNS Cache Pollution Protection)
+#photography	
+DOMAIN-SUFFIX,juliakuzmenko.com
 # > Google
 DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,blogger.com
