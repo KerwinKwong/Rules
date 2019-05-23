@@ -40,6 +40,10 @@ DOMAIN-SUFFIX,line.me
 DOMAIN-SUFFIX,line-apps.com
 DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,naver.jp
+IP-CIDR,103.2.30.0/23,no-resolve
+IP-CIDR,125.209.208.0/20,no-resolve
+IP-CIDR,147.92.128.0/17,no-resolve
+IP-CIDR,203.104.144.0/21,no-resolve
 # > Other
 DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,881903.com
@@ -50,6 +54,7 @@ DOMAIN-SUFFIX,abebooks.com
 DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN-SUFFIX,apigee.com
 DOMAIN-SUFFIX,apk-dl.com
+DOMAIN-SUFFIX,apkfind.com
 DOMAIN-SUFFIX,apkmirror.com
 DOMAIN-SUFFIX,apkmonk.com
 DOMAIN-SUFFIX,apkpure.com
@@ -238,6 +243,7 @@ DOMAIN-SUFFIX,scmp.com
 DOMAIN-SUFFIX,scribd.com
 DOMAIN-SUFFIX,seatguru.com
 DOMAIN-SUFFIX,shadowsocks.org
+DOMAIN-SUFFIX,shopee.tw
 DOMAIN-SUFFIX,slideshare.net
 DOMAIN-SUFFIX,softfamous.com
 DOMAIN-SUFFIX,soundcloud.com
@@ -274,6 +280,7 @@ DOMAIN-SUFFIX,wattpad.com
 DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,wikimapia.org
 DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,winudf.com
 DOMAIN-SUFFIX,wire.com
 DOMAIN-SUFFIX,workflow.is
 DOMAIN-SUFFIX,worldcat.org
@@ -466,7 +473,3 @@ DOMAIN-SUFFIX,wn.com
 DOMAIN-SUFFIX,wolframalpha.com
 DOMAIN-SUFFIX,x-art.com
 DOMAIN-SUFFIX,yimg.com
-DOMAIN-SUFFIX,juliakuzmenko.com
-DOMAIN-SUFFIX,www.inoreader.com
-DOMAIN-SUFFIX,500px.com
-
