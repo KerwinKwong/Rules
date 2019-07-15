@@ -111,7 +111,6 @@ DOMAIN-SUFFIX,daum.net
 DOMAIN-SUFFIX,daumcdn.net
 DOMAIN-SUFFIX,dcard.tw
 DOMAIN-SUFFIX,deepdiscount.com
-DOMAIN-SUFFIX,deezer.com
 DOMAIN-SUFFIX,depositphotos.com
 DOMAIN-SUFFIX,deviantart.com
 DOMAIN-SUFFIX,disconnect.me
@@ -449,10 +448,11 @@ DOMAIN-SUFFIX,ytimg.com
 # > Microsoft
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,1drv.ms
-DOMAIN-SUFFIX,livefilestore.com
-DOMAIN-SUFFIX,storage.msn.com
-DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,live.net
+DOMAIN-SUFFIX,livefilestore.com
+DOMAIN-SUFFIX,pipe.aria.microsoft.com
+DOMAIN-SUFFIX,storage.msn.com
 # > Other
 DOMAIN-SUFFIX,0rz.tw
 DOMAIN-SUFFIX,4bluestones.biz
@@ -512,11 +512,11 @@ DOMAIN-SUFFIX,wn.com
 DOMAIN-SUFFIX,wolframalpha.com
 DOMAIN-SUFFIX,x-art.com
 DOMAIN-SUFFIX,yimg.com
-DOMAIN-SUFFIX,xkerwin.com	
-DOMAIN-SUFFIX,xkerwin.cn	
-DOMAIN-SUFFIX,notion.so	
-DOMAIN-SUFFIX,unsplash.com	
-DOMAIN-SUFFIX,dlercloud.me	
-DOMAIN-SUFFIX,dlercloud.org	
-DOMAIN-SUFFIX,dlercloud.com	
+DOMAIN-SUFFIX,xkerwin.com		
+DOMAIN-SUFFIX,xkerwin.cn		
+DOMAIN-SUFFIX,notion.so		
+DOMAIN-SUFFIX,unsplash.com		
+DOMAIN-SUFFIX,dlercloud.me		
+DOMAIN-SUFFIX,dlercloud.org		
+DOMAIN-SUFFIX,dlercloud.com		
 DOMAIN-SUFFIX,mobatek.net
