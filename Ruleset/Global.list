@@ -38,6 +38,21 @@ DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,vine.co
 DOMAIN-KEYWORD,twitter
+# > Telegram
+DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,tdesktop.com
+DOMAIN-SUFFIX,telegra.ph
+DOMAIN-SUFFIX,telegram.me
+DOMAIN-SUFFIX,telegram.org
+IP-CIDR,67.198.55.0/24,no-resolve
+IP-CIDR,91.108.4.0/22,no-resolve
+IP-CIDR,91.108.8.0/22,no-resolve
+IP-CIDR,91.108.12.0/22,no-resolve
+IP-CIDR,91.108.16.0/22,no-resolve
+IP-CIDR,91.108.56.0/22,no-resolve
+IP-CIDR,109.239.140.0/24,no-resolve
+IP-CIDR,149.154.160.0/20,no-resolve
+IP-CIDR,205.172.60.0/22,no-resolve
 # > Line
 DOMAIN-SUFFIX,line.me
 DOMAIN-SUFFIX,line-apps.com
@@ -49,6 +64,7 @@ IP-CIDR,147.92.128.0/17,no-resolve
 IP-CIDR,203.104.144.0/21,no-resolve
 # > Other
 DOMAIN-SUFFIX,4shared.com
+DOMAIN-SUFFIX,520cc.cc
 DOMAIN-SUFFIX,881903.com
 DOMAIN-SUFFIX,9cache.com
 DOMAIN-SUFFIX,9gag.com
@@ -67,6 +83,7 @@ DOMAIN-SUFFIX,archive.is
 DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,arte.tv
 DOMAIN-SUFFIX,artstation.com
+DOMAIN-SUFFIX,arukas.io
 DOMAIN-SUFFIX,ask.com
 DOMAIN-SUFFIX,avgle.com
 DOMAIN-SUFFIX,badoo.com
@@ -118,6 +135,7 @@ DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discordapp.net
 DOMAIN-SUFFIX,disqus.com
 DOMAIN-SUFFIX,dns2go.com
+DOMAIN-SUFFIX,dowjones.com
 DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,dropboxusercontent.com
 DOMAIN-SUFFIX,duckduckgo.com
@@ -138,6 +156,7 @@ DOMAIN-SUFFIX,flickr.com
 DOMAIN-SUFFIX,flitto.com
 DOMAIN-SUFFIX,foreignpolicy.com
 DOMAIN-SUFFIX,friday.tw
+DOMAIN-SUFFIX,ftchinese.com
 DOMAIN-SUFFIX,gate.io
 DOMAIN-SUFFIX,getlantern.org
 DOMAIN-SUFFIX,getsync.com
@@ -231,6 +250,7 @@ DOMAIN-SUFFIX,pinimg.com
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,player.fm
 DOMAIN-SUFFIX,plurk.com
+DOMAIN-SUFFIX,po18.tw
 DOMAIN-SUFFIX,prism-break.org
 DOMAIN-SUFFIX,proxifier.com
 DOMAIN-SUFFIX,pts.org.tw
@@ -273,7 +293,6 @@ DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,turbobit.net
 DOMAIN-SUFFIX,tutanota.com
 DOMAIN-SUFFIX,tvboxnow.com
-DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,udn.com
 DOMAIN-SUFFIX,unseen.is
 DOMAIN-SUFFIX,upmedia.mg
@@ -306,6 +325,7 @@ DOMAIN-SUFFIX,xnxx.com
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,yahoo.com
 DOMAIN-SUFFIX,yandex.ru
+DOMAIN-SUFFIX,ycombinator.com
 DOMAIN-SUFFIX,yesasia.com
 DOMAIN-SUFFIX,yes-news.com
 DOMAIN-SUFFIX,yomiuri.co.jp
@@ -372,11 +392,10 @@ USER-AGENT,Roam*
 
 # (The Most Popular Sites)
 # > Apple
+# >> TestFlight
+DOMAIN,testflight.apple.com
 # >> Apple URL Shortener
 DOMAIN-SUFFIX,appsto.re
-# >> TestFlight
-DOMAIN,beta.itunes.apple.com
-DOMAIN,testflight.apple.com
 # >> iBooks Store download
 DOMAIN,books.itunes.apple.com
 # >> iTunes Store Moveis Trailers
@@ -451,7 +470,6 @@ DOMAIN-SUFFIX,1drv.ms
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,livefilestore.com
-DOMAIN-SUFFIX,pipe.aria.microsoft.com
 DOMAIN-SUFFIX,storage.msn.com
 # > Other
 DOMAIN-SUFFIX,0rz.tw
@@ -481,7 +499,6 @@ DOMAIN-SUFFIX,edditstatic.com
 DOMAIN-SUFFIX,flickriver.com
 DOMAIN-SUFFIX,focustaiwan.tw
 DOMAIN-SUFFIX,free.fr
-DOMAIN-SUFFIX,ftchinese.com
 DOMAIN-SUFFIX,gigacircle.com
 DOMAIN-SUFFIX,hk-pub.com
 DOMAIN-SUFFIX,hosting.co.uk
@@ -495,28 +512,29 @@ DOMAIN-SUFFIX,manyvids.com
 DOMAIN-SUFFIX,myactimes.com
 DOMAIN-SUFFIX,newsblur.com
 DOMAIN-SUFFIX,now.im
+DOMAIN-SUFFIX,nowe.com
 DOMAIN-SUFFIX,redditlist.com
-DOMAIN-SUFFIX,smartmailcloud.com
 DOMAIN-SUFFIX,signal.org
+DOMAIN-SUFFIX,smartmailcloud.com
 DOMAIN-SUFFIX,sparknotes.com
 DOMAIN-SUFFIX,streetvoice.com
 DOMAIN-SUFFIX,supertop.co
-DOMAIN-SUFFIX,ttvnw.net
 DOMAIN-SUFFIX,tv.com
-DOMAIN-SUFFIX,twitchcdn.net
 DOMAIN-SUFFIX,typepad.com
 DOMAIN-SUFFIX,udnbkk.com
+DOMAIN-SUFFIX,urbanairship.com
 DOMAIN-SUFFIX,whispersystems.org
 DOMAIN-SUFFIX,wikia.com
 DOMAIN-SUFFIX,wn.com
 DOMAIN-SUFFIX,wolframalpha.com
 DOMAIN-SUFFIX,x-art.com
 DOMAIN-SUFFIX,yimg.com
-DOMAIN-SUFFIX,xkerwin.com		
-DOMAIN-SUFFIX,xkerwin.cn		
-DOMAIN-SUFFIX,notion.so		
-DOMAIN-SUFFIX,unsplash.com		
-DOMAIN-SUFFIX,dlercloud.me		
-DOMAIN-SUFFIX,dlercloud.org		
-DOMAIN-SUFFIX,dlercloud.com		
+#---
+DOMAIN-SUFFIX,xkerwin.com			
+DOMAIN-SUFFIX,xkerwin.cn			
+DOMAIN-SUFFIX,notion.so			
+DOMAIN-SUFFIX,unsplash.com			
+DOMAIN-SUFFIX,dlercloud.me			
+DOMAIN-SUFFIX,dlercloud.org			
+DOMAIN-SUFFIX,dlercloud.com			
 DOMAIN-SUFFIX,mobatek.net
