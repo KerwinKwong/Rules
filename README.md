@@ -1,2 +1,2 @@
-# Surge、Quantumult、Quantumult X、Shadowrocket、Rules
-## 请勿直接套用
+## Surge、Quantumult、Quantumult X、Shadowrocket
+### 自用Rules，请勿直接套用！
