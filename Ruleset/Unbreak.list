@@ -1,14 +1,17 @@
-# > Unbreak
-# >> General
+# Unbreak
+# > General
 USER-AGENT,coffeecorp*
-# >> Firebase Cloud Messaging
-DOMAIN,mtalk.google.com
-# >> Google Flights
+USER-AGENT,restaurant-mobile*
+DOMAIN,app.adjust.com
+# > Google
 DOMAIN-SUFFIX,googletraveladservices.com
-# >> TencentVideo for macOS
-DOMAIN-SUFFIX,vd.l.qq.com
-# >> Strava
+DOMAIN,dl.google.com
+DOMAIN,mtalk.google.com
+# > Tencent
+DOMAIN,livew.l.qq.com
+DOMAIN,vd.l.qq.com
+# > Strava
 DOMAIN,analytics.strava.com
-# >> Umeng
+# > Umeng
 DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com
