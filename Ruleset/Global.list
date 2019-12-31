@@ -1,5 +1,6 @@
 # (DNS Cache Pollution Protection)
 # > Google
+DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,blogger.com
 DOMAIN-SUFFIX,getoutline.org
@@ -502,7 +503,7 @@ DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,storage.live.com
 DOMAIN-SUFFIX,storage.msn.com
 DOMAIN,oneclient.sfx.ms
-# > Other
+# > Other1
 DOMAIN-SUFFIX,0rz.tw
 DOMAIN-SUFFIX,4bluestones.biz
 DOMAIN-SUFFIX,9bis.net
@@ -538,7 +539,6 @@ DOMAIN-SUFFIX,ifixit.com
 DOMAIN-SUFFIX,iphone4hongkong.com
 DOMAIN-SUFFIX,iphonetaiwan.org
 DOMAIN-SUFFIX,iptvbin.com
-DOMAIN-SUFFIX,jtvnw.net
 DOMAIN-SUFFIX,linksalpha.com
 DOMAIN-SUFFIX,manyvids.com
 DOMAIN-SUFFIX,myactimes.com
@@ -564,13 +564,11 @@ DOMAIN-SUFFIX,x-art.com
 DOMAIN-SUFFIX,yimg.com
 DOMAIN,api.steampowered.com
 DOMAIN,store.steampowered.com
-
-DOMAIN-SUFFIX,xkerwin.com				
-DOMAIN-SUFFIX,xkerwin.cn				
-DOMAIN-SUFFIX,notion.so				
-DOMAIN-SUFFIX,unsplash.com				
-DOMAIN-SUFFIX,dlercloud.me				
-DOMAIN-SUFFIX,dlercloud.org				
-DOMAIN-SUFFIX,dlercloud.com				
-DOMAIN-SUFFIX,mobatek.net	
+# > Other2
+DOMAIN-SUFFIX,notion.so					
+DOMAIN-SUFFIX,unsplash.com					
+DOMAIN-SUFFIX,dlercloud.me					
+DOMAIN-SUFFIX,dlercloud.org					
+DOMAIN-SUFFIX,dlercloud.com					
+DOMAIN-SUFFIX,mobatek.net		
 DOMAIN-SUFFIX,touhou.io
