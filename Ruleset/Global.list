@@ -349,6 +349,7 @@ DOMAIN-SUFFIX,washingtonpost.com
 DOMAIN-SUFFIX,wattpad.com
 DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,wikimapia.org
+DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,wikiquote.org
 DOMAIN-SUFFIX,wikiwand.com
@@ -506,7 +507,7 @@ DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,storage.live.com
 DOMAIN-SUFFIX,storage.msn.com
 DOMAIN,oneclient.sfx.ms
-# > Other 1
+# > Other
 DOMAIN-SUFFIX,0rz.tw
 DOMAIN-SUFFIX,4bluestones.biz
 DOMAIN-SUFFIX,9bis.net
@@ -566,13 +567,4 @@ DOMAIN-SUFFIX,wolframalpha.com
 DOMAIN-SUFFIX,x-art.com
 DOMAIN-SUFFIX,yimg.com
 DOMAIN,api.steampowered.com
-
-# > Other 2
-DOMAIN-SUFFIX,notion.so					
-DOMAIN-SUFFIX,unsplash.com					
-DOMAIN-SUFFIX,dlercloud.me					
-DOMAIN-SUFFIX,dlercloud.org					
-DOMAIN-SUFFIX,dlercloud.com					
-DOMAIN-SUFFIX,mobatek.net		
-DOMAIN-SUFFIX,touhou.io
-DOMAIN-SUFFIX,icons8.com
+DOMAIN,store.steampowered.com
