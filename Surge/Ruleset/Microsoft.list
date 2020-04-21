@@ -1,8 +1,6 @@
-# > OneDrive
-PROCESS-NAME,OneDrive
-PROCESS-NAME,OneDriveUpdater
+# > Microsoft
+
 USER-AGENT,OneDrive*
-USER-AGENT,OneDriveiOSApp*
 DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,onedrive
 DOMAIN-SUFFIX,azure.cn
@@ -16,9 +14,5 @@ DOMAIN-SUFFIX,office.net
 DOMAIN-SUFFIX,outlook.com
 DOMAIN-SUFFIX,sharepoint.com
 DOMAIN-SUFFIX,skype.com
-DOMAIN-SUFFIX,windows.com
-DOMAIN-SUFFIX,windows.net
-DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,xbox.com
 DOMAIN-SUFFIX,xboxlive.com
-DOMAIN-SUFFIX,onedrive.live.com
