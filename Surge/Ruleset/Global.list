@@ -1,5 +1,3 @@
-# (DNS Cache Pollution Protection)
-
 # > Line
 DOMAIN-SUFFIX,lin.ee
 DOMAIN-SUFFIX,line.me
@@ -465,6 +463,7 @@ DOMAIN-SUFFIX,torcn.com
 DOMAIN-SUFFIX,torrentprivacy.com
 DOMAIN-SUFFIX,torrentproject.se
 DOMAIN-SUFFIX,torrentz.eu
+DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,traffichaus.com
 DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,transparency.org
