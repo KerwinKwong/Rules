@@ -24,6 +24,9 @@ DOMAIN-KEYWORD,mtalk.google.com
 DOMAIN,safebrowsing.googleapis.com
 DOMAIN-SUFFIX,dl.google.com
 
+# > Microsoft
+DOMAIN-SUFFIX,msftconnecttest.com
+
 # > Proxy plugin
 PROCESS-NAME,v2ray
 PROCESS-NAME,ss-local
@@ -83,6 +86,5 @@ DOMAIN-SUFFIX,totheglory.im
 
 DOMAIN-KEYWORD,announce
 DOMAIN-KEYWORD,torrent
-DOMAIN-KEYWORD,tracker
 DOMAIN-SUFFIX,smtp
 URL-REGEX,(Subject|HELO|SMTP)

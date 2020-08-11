@@ -2520,7 +2520,6 @@ DOMAIN-SUFFIX,cpro.zol.com.cn
 DOMAIN-SUFFIX,cpro1.edushi.com
 DOMAIN-SUFFIX,cpro2.baidu.com
 DOMAIN-SUFFIX,cps.360buy.com
-DOMAIN-SUFFIX,cpu.baidu.com
 DOMAIN-SUFFIX,cpu-admin.baidu.com
 DOMAIN-SUFFIX,cpv.channelray
 DOMAIN-SUFFIX,cpv.czpush.com
@@ -3201,7 +3200,6 @@ DOMAIN-SUFFIX,e.pyerc.com
 DOMAIN-SUFFIX,e.qiaoyuwang.com
 DOMAIN-SUFFIX,e.qingzhencai.net
 DOMAIN-SUFFIX,e.qiyunmuye.com
-DOMAIN-SUFFIX,e.qq.com
 DOMAIN-SUFFIX,e.qsove.com
 DOMAIN-SUFFIX,e.qvxyz.com
 DOMAIN-SUFFIX,e.qxfly.com
@@ -5214,7 +5212,6 @@ DOMAIN-SUFFIX,m.xpjis.com
 DOMAIN-SUFFIX,m.xxkio.com
 DOMAIN-SUFFIX,m.yalayi.com
 DOMAIN-SUFFIX,m.yangjingbang.net
-DOMAIN-SUFFIX,m.yap.yahoo.com
 DOMAIN-SUFFIX,m.yicang8.com
 DOMAIN-SUFFIX,m.yingchengtou.com
 DOMAIN-SUFFIX,m.ynnke.com
@@ -7345,7 +7342,6 @@ DOMAIN-SUFFIX,um0592.com
 DOMAIN-SUFFIX,um2.eqads.com
 DOMAIN-SUFFIX,um29.com
 DOMAIN-SUFFIX,umid.orion.meizu.com
-DOMAIN-SUFFIX,umiwi.com
 DOMAIN-SUFFIX,umyai.com
 DOMAIN-SUFFIX,un.52rkl.cn
 DOMAIN-SUFFIX,un.soarfi.cn
@@ -8311,8 +8307,6 @@ URL-REGEX,https://api.zhihu.com/(fringe|zst|real_time|ad-style-service|banners|t
 URL-REGEX,https://api.zhihu.com.*(launch|recommendations)
 URL-REGEX,https://api.zhihu.com/search/(top|tabs|preset)
 URL-REGEX,https://api.zhihu.com/answers/.*/comments/featured-comment-ad
-AND,((USER-AGENT,ZhihuHybrid*), (NOT,((DOMAIN,www.zhihu.com))), (NOT,((DOMAIN,static.zhihu.com))), (NOT,((DOMAIN-SUFFIX,zhimg.com))), (NOT,((DOMAIN,daily.zhihu.com))))
-AND,((USER-AGENT,osee2*), (NOT,((DOMAIN,api.zhihu.com))), (NOT,((DOMAIN,lens.zhihu.com))), (NOT,((DOMAIN,static.zhihu.com))), (NOT,((DOMAIN,www.zhihu.com))), (NOT,((DOMAIN-SUFFIX,zhimg.com))))
 
 URL-REGEX,https?://(e|m).+/((uu|oo).php.+|\d+.x?html\?$)
 URL-REGEX,https?://[^(apple|10010)]+.(com|cn)\/(a|A)d(s|v)?(/|.js)
