@@ -229,7 +229,7 @@ rule-providers:
     type: http
     behavior: classical
     path: ./RuleSet/StreamingMedia/StreamingCN.yaml
-    url: https://raw.githubusercontent.com/xkerwin/Rules/master/Clash/RuleSet/StreamingMedia/StreamingCN.yaml
+    url: https://raw.githubusercontent.com/KerwinKwong/Rules/master/Clash/RuleSet/StreamingMedia/StreamingCN.yaml
     interval: 86400
 
 rules:
