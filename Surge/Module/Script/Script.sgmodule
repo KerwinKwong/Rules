@@ -1,6 +1,0 @@
-#!name=签到脚本Module
-#!desc=iOS Cookies 模块配置
-
-
-[MITM]
-hostname = *.bilibili.com,music.163.com,act.10010.com, m.client.10010.com,wx.10086.cn,*.rr.tv,
