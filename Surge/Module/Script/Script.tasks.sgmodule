@@ -1,5 +1,5 @@
-#!name=KERWIN签到脚本Module
-#!desc=iOS Cookies 模块配置
+#!name=Script Tasks Module
+#!desc=Tasks 模块配置
 
 [Script]
 Tasks: 10010联通    = type = cron, cronexp = 0 9 * * *,  script-path = https://raw.githubusercontent.com/KerwinKwong/Rules/master/Script/10010/10010.js, wake-system=true
