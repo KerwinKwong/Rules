@@ -2,6 +2,7 @@
 # > Apple
 DOMAIN,testflight.apple.com
 # > Google
+DOMAIN,translate.googleapis.com
 DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,blogger.com
 DOMAIN-SUFFIX,getoutline.org

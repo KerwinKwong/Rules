@@ -18,7 +18,6 @@ DOMAIN,dl.l.google.com
 DOMAIN,fonts.googleapis.com // Google Fonts API
 DOMAIN,fonts.gstatic.com // Google Fonts API
 DOMAIN,mtalk.google.com // Firebase Cloud Messaging
-DOMAIN,translate.googleapis.com
 DOMAIN,update.googleapis.com
 # > Tencent
 DOMAIN,livew.l.qq.com
