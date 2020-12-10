@@ -9,9 +9,11 @@ DOMAIN-SUFFIX,getoutline.org
 DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+DOMAIN-SUFFIX,ytimg.com
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,.blogspot.
 # > Microsoft
+DOMAIN-SUFFIX,aka.ms
 DOMAIN-SUFFIX,onedrive.live.com
 DOMAIN,az416426.vo.msecnd.net
 DOMAIN,az668014.vo.msecnd.net
@@ -33,6 +35,15 @@ DOMAIN-SUFFIX,oculuscdn.com
 DOMAIN-SUFFIX,rocksdb.org
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
+# > Twitter
+DOMAIN-SUFFIX,pscp.tv
+DOMAIN-SUFFIX,periscope.tv
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,twimg.co
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twitpic.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,vine.co
 # > Telegram
 DOMAIN-SUFFIX,telegra.ph
 DOMAIN-SUFFIX,telegram.org
@@ -54,6 +65,12 @@ IP-CIDR,103.2.30.0/23,no-resolve
 IP-CIDR,125.209.208.0/20,no-resolve
 IP-CIDR,147.92.128.0/17,no-resolve
 IP-CIDR,203.104.144.0/21,no-resolve
+# > Amazon
+DOMAIN-SUFFIX,amazon.co.jp
+DOMAIN,d3c33hcgiwev3.cloudfront.net
+DOMAIN,payments-jp.amazon.com
+DOMAIN,s3-ap-northeast-1.amazonaws.com
+DOMAIN,s3-ap-southeast-2.amazonaws.com
 # > Akamai
 DOMAIN,a248.e.akamai.net
 DOMAIN,a771.dscq.akamai.net
@@ -180,6 +197,7 @@ DOMAIN-SUFFIX,ft.com
 DOMAIN-SUFFIX,ftchinese.com
 DOMAIN-SUFFIX,ftimg.net
 DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,genius.com
 DOMAIN-SUFFIX,getlantern.org
 DOMAIN-SUFFIX,getsync.com
 DOMAIN-SUFFIX,github.com
@@ -343,6 +361,7 @@ DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steemit.com
 DOMAIN-SUFFIX,steemitwallet.com
 DOMAIN-SUFFIX,straitstimes.com
+DOMAIN-SUFFIX,streamable.com
 DOMAIN-SUFFIX,streema.com
 DOMAIN-SUFFIX,t66y.com
 DOMAIN-SUFFIX,tapatalk.com
@@ -487,12 +506,7 @@ DOMAIN-SUFFIX,tdesktop.com
 DOMAIN-SUFFIX,telegram.me
 DOMAIN-SUFFIX,telesco.pe
 # > Facebook
-DOMAIN-SUFFIX,facebook.br
-DOMAIN-SUFFIX,facebook.design
-DOMAIN-SUFFIX,facebook.hu
-DOMAIN-SUFFIX,facebook.in
-DOMAIN-SUFFIX,facebook.nl
-DOMAIN-SUFFIX,facebook.se
+DOMAIN-KEYWORD,.facebook.
 DOMAIN-SUFFIX,facebookmail.com
 # > Others
 DOMAIN-SUFFIX,noxinfluencer.com
@@ -536,3 +550,4 @@ DOMAIN-SUFFIX,inkbunny.net
 DOMAIN-SUFFIX,metapix.net
 DOMAIN-SUFFIX,s3.amazonaws.com
 DOMAIN-SUFFIX,zaobao.com.sg
+DOMAIN,ocsp.apple.com
