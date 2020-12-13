@@ -351,10 +351,11 @@ DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhihuishu.com
 DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhuihd.com
-DOMAIN-SUFFIX,zmzapi.com
 
 DOMAIN,download.jetbrains.com
 DOMAIN,images-cn.ssl-images-amazon.com
+DOMAIN,image.jstucdn.com
+DOMAIN,pc.zmzapi.com
 
 # Tencent
 IP-CIDR,119.28.28.28/32,no-resolve
