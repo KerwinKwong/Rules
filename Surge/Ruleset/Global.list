@@ -2,7 +2,6 @@
 # > Apple
 DOMAIN,testflight.apple.com
 # > Google
-DOMAIN,translate.googleapis.com
 DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,blogger.com
 DOMAIN-SUFFIX,getoutline.org
@@ -51,6 +50,7 @@ IP-CIDR,91.108.4.0/22,no-resolve
 IP-CIDR,91.108.8.0/22,no-resolve
 IP-CIDR,91.108.12.0/22,no-resolve
 IP-CIDR,91.108.16.0/22,no-resolve
+IP-CIDR,91.108.20.0/22,no-resolve
 IP-CIDR,91.108.56.0/22,no-resolve
 IP-CIDR,149.154.160.0/20,no-resolve
 IP-CIDR6,2001:b28:f23d::/48,no-resolve
@@ -74,8 +74,6 @@ DOMAIN,s3-ap-southeast-2.amazonaws.com
 # > Akamai
 DOMAIN,a248.e.akamai.net
 DOMAIN,a771.dscq.akamai.net
-# > Amazon CloudFront
-DOMAIN,d3c33hcgiwev3.cloudfront.net
 # > Others
 DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,9cache.com
@@ -83,7 +81,6 @@ DOMAIN-SUFFIX,9gag.com
 DOMAIN-SUFFIX,abc.com
 DOMAIN-SUFFIX,abc.net.au
 DOMAIN-SUFFIX,abebooks.com
-DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN-SUFFIX,ao3.org
 DOMAIN-SUFFIX,apigee.com
 DOMAIN-SUFFIX,apkcombo.com
@@ -437,9 +434,6 @@ DOMAIN-SUFFIX,zoom.us
 
 DOMAIN,cc.tvbs.com.tw
 DOMAIN,ocsp.int-x3.letsencrypt.org
-DOMAIN,payments-jp.amazon.com
-DOMAIN,s3-ap-northeast-1.amazonaws.com
-DOMAIN,s3-ap-southeast-2.amazonaws.com
 DOMAIN,search.avira.com
 DOMAIN,us.weibo.com
 
@@ -539,15 +533,14 @@ DOMAIN-SUFFIX,duboxcdn.com
 DOMAIN-SUFFIX,ifixit.com
 DOMAIN-SUFFIX,mangakakalot.com
 DOMAIN-SUFFIX,shopeemobile.com
-DOMAIN-SUFFIX,flaticon.com
 URL-REGEX,http:\/\/img\.sina\.com\/usweibo\/
 
 # (Network Jitter)
-# > Fix download or update is stuck in App Store,and when change the Apple ID region,the payment information can be selected by none.
-DOMAIN-KEYWORD,buy.itunes.apple.com
 DOMAIN-SUFFIX,cloudcone.com.cn
 DOMAIN-SUFFIX,inkbunny.net
 DOMAIN-SUFFIX,metapix.net
 DOMAIN-SUFFIX,s3.amazonaws.com
 DOMAIN-SUFFIX,zaobao.com.sg
+DOMAIN,international-gfe.download.nvidia.com
 DOMAIN,ocsp.apple.com
+DOMAIN,store-images.s-microsoft.com
